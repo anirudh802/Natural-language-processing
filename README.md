@@ -1,4 +1,4 @@
-# Finding relevant paragraphs and answering bbased on those
+# Finding relevant paragraphs and answering question based on those
 
 In this task we had to do two things.
 Firstly to get the five most relevant paragraphs.
@@ -30,6 +30,9 @@ clone the github repo and then run all the codeblocks in the nlptask.ipynb file
 in the last code block edit the question to whatever the question you would like to ask and then wait fro some time to get the results
 
 ### model on the run
+
+![img](https://github.com/anirudh802/Natural-language-processing/blob/main/1.png)
+![img](https://github.com/anirudh802/Natural-language-processing/blob/main/2.png)
 
 
 
